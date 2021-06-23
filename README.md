@@ -10,6 +10,6 @@
 - Approximating the above method using Gauss Seidel iteration.[[Codes]](https://github.com/young3984/3D_reconstruction_using_2D_cross_section/tree/master/Code/Heat_equation)
  
   ![heat_2D (1)](https://user-images.githubusercontent.com/68014282/123108776-ac2fad80-d475-11eb-9bd6-5f1362a71359.gif)
-### (3) Reconstruct using the modified Khan Healyard equation.
+### (3) Reconstruct using the modified Cahn-Hilliard equation.
 
 
